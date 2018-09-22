@@ -1,7 +1,23 @@
 # Python 3
 # A simple script for those using flash cards to help learn Python 3 using Zed Shaw's: Learn python The Hard Way.
 
-user_input = input("Enter you answer here: ")
+user_input = input("Got your answer? Press ENTER to find out if you're right.")
 
-print("Question 1.",
-      "
+print("Word Drills. Associated with Classes in exercise 41.")
+print("The word will show, then you have to guess the meaning from memory. See how many you can get right!")
+
+print("class")				
+user_input
+print("Tell Python to make a new type of thing.\n")
+
+print("object")
+user_input
+print("Two meanings: the most basic type of thing, and any instance of some thing.\n")
+
+print("instance")
+user_input
+print("What you get when you tell Python to create a class.\n")
+
+print("def")
+user_input
+print("How you define a function inside a class.\n")
