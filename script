@@ -1,0 +1,7 @@
+# Python 3
+# A simple script for those using flash cards to help learn Python 3 using Zed Shaw's: Learn python The Hard Way.
+
+user_input = input("Enter you answer here: ")
+
+print("Question 1.",
+      "
